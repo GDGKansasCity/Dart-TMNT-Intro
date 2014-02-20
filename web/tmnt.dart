@@ -1,4 +1,4 @@
-/* Part 1
+/* Part 1 */
 import 'dart:html';
 
 void main()
@@ -18,7 +18,7 @@ void updateText( Event e )
   //OR 2
   //querySelector( '#textName' ).text = ( e.target as InputElement ).value;
 }
-*/
+
 //////////////////////////////////////////////////////////////////////////
 
 /*Part 2
@@ -305,7 +305,7 @@ class TurtleName
 //https://api.dartlang.org/apidocs/channels/stable/#dart-convert
 
 /*Part 5 S6*/
-import 'dart:html';
+/* import 'dart:html';
 import 'dart:math' show Random;
 import 'dart:convert' show JSON;
 //https://api.dartlang.org/apidocs/channels/stable/#dart-async
@@ -453,4 +453,4 @@ class TurtleName
     names = turlesNames['names']; 
     titles = turlesNames['titles'];
   }
-}
+} */
